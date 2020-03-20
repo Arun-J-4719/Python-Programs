@@ -18,3 +18,4 @@ query="Select * from Biodata"
 cursor.execute(query)
 for i in cursor:
 	print i
+Hello world
