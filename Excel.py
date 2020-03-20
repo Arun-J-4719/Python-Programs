@@ -9,6 +9,3 @@ data=[[sheet.cell_value(c,r) for r in range(sheet.nrows)]for c in range(sheet.nc
 print "Retrived Data Are:"
 for i in data:
 	print i
-
-
-
